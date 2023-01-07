@@ -25,5 +25,5 @@ Branch.
 -can have a bunch of branches with their own commits.
 ================
 Pull Request "please take my changes and pull them into main"
-Merge
+Merge- the merge was successful, no conflicts, made a new branch called "additional branch".
 
