@@ -34,3 +34,5 @@ an exact replica, including history.
 from me and then merge it
 -I want to push but i cant so they have to pull
 so I ask for a pull request!
+- Commiting directly to main branch only commits to MY main branch of MY fork. Not the original
+that I forked it from.
