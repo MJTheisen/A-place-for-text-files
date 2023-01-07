@@ -1,43 +1,25 @@
 Hello. This is a plain text file with nothing else in it.
-
 Why are you here?
-
-
-
-
 
 Thank you.
 Have a nice day.
 :)
 
-
-
 This was so that I could visualize version control.
 
 =================
-
 January 6th, 2023
 =================
-
 Check check 1 2 3 
-
 Git and Github
-
 "version control"
-
 "collaboration"
-
 =================
-
 Git is the actual version control software.
-
 Github is a webservice where you can do Git things.
-
 ================
 Repository (Repo) is a project with multiple files.
-
 Commit is like save. has a Hash 
-
 Branch.
 -main list of commits is the master.
 -can have a bunch of branches with their own commits.
