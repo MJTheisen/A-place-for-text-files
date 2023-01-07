@@ -11,20 +11,26 @@ This was so that I could visualize version control.
 January 6th, 2023
 =================
 Check check 1 2 3 
-Git and Github
-"version control"
-"collaboration"
+-Git and Github
+-"version control"
+-"collaboration"
 =================
-Git is the actual version control software.
-Github is a webservice where you can do Git things.
+-Git is the actual version control software.
+-Github is a webservice where you can do Git things.
 ================
-Repository (Repo) is a project with multiple files.
-Commit is like save. has a Hash 
-Branch.
+-Repository (Repo) is a project with multiple files.
+-Commit is like save. has a Hash 
+-Branch.
 -main list of commits is the master.
 -can have a bunch of branches with their own commits.
 ================
-Pull Request "please take my changes and pull them into main"
-Merge- the merge was successful, no conflicts, made a new branch called "additional branch".
-
-adding some information prior to "additional branch" edit .
+-Pull Request "please take my changes and pull them into main"
+-Merge- the merge was successful, no conflicts, made a new branch called "additional branch".
+-Adding some information prior to "additional branch" edit .
+===============
+-Forks - forking a repository. like taking a whole instance and put it under my account.
+an exact replica, including history.
+-A pull request would be asking the original person that it was forked from, to pull it 
+from me and then merge it
+-I want to push but i cant so they have to pull
+so I ask for a pull request!
